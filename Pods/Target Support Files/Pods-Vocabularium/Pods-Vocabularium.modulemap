@@ -1,0 +1,6 @@
+framework module Pods_Vocabularium {
+  umbrella header "Pods-Vocabularium-umbrella.h"
+
+  export *
+  module * { export * }
+}
